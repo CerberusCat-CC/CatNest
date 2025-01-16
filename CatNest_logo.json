@@ -1,0 +1,58 @@
+{
+	"Images": [
+    	{
+        	"URL": "https://i.ibb.co/TDQqCcf/Cat-Nest-Donate3.png",
+        	"Pos": "TopLeft",
+        	"Persist": true,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "TopMid",
+        	"Persist": false,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "TopRight",
+        	"Persist": false,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "MidLeft",
+        	"Persist": false,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "MidMid",
+        	"Persist": false,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "MidRight",
+        	"Persist": false,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "BottomLeft",
+        	"Persist": false,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "BottomMid",
+          "Persist": false,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "BottomRight",
+        	"Persist": false,
+        	"FadeTime": 5
+    	}
+	]
+}
